@@ -1,9 +1,8 @@
-<<<<<<< Updated upstream
+muokkasin tämän
 kahden apinan historia
-=======
 apinan historia
 apina
 apinan
 apinasta
->>>>>>> Stashed changes
+muokkasin tämän myös
  
