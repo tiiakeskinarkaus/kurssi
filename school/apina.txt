@@ -5,5 +5,5 @@ apinan historia
 apina
 apinan
 apinasta
->>>>>>> Stashed changes
+muokkasin tämän myös
  
