@@ -1,2 +1,9 @@
+<<<<<<< Updated upstream
 kahden apinan historia
+=======
+apinan historia
+apina
+apinan
+apinasta
+>>>>>>> Stashed changes
  
