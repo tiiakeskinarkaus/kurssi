@@ -5,3 +5,7 @@ tomaatti
 kinkku
 leipä
 
+jogurtti
+omena
+maissi
+päärynä
